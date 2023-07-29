@@ -1,0 +1,35 @@
+#include<stdio.h>
+int amin()
+{
+ int a,b,c;
+ scanf("%d%d%",&a.&b,&c);
+  if(a>b)
+   {
+     a=max
+     b=max;   
+   }
+    else
+    { 
+     b=max;
+     a=smax;
+     }
+     if(c>max)
+      {
+       sm=max;
+       max=c;
+       printf("smax");
+       }
+       elseif(c>smax)
+       { 
+        printf("smax";)
+        }
+         if
+         {
+          sm=c;
+          printf(samx);
+          }
+ return 0;
+ }
+        
+
+     
