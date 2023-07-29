@@ -1,0 +1,20 @@
+# include<stdio.h>
+int main()
+{
+	int n,k,s=1;
+	printf("enter the value of n-:");
+	scanf("%d",&n);
+	printf("enter the value of k-:");
+	scanf("%d",&k);
+		for(int i=1;i<=n;i++)
+		{
+			for(int j=1;j<=s;j++)
+			{
+				printf(" %d",k);
+				k++;
+			}
+			printf("\n");
+			s+=2;
+		}
+return 0;
+}		
